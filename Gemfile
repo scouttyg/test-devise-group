@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 # Extra gems
 gem 'devise'
+gem 'activeadmin', github: 'activeadmin'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
